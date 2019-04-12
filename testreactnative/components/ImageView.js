@@ -79,14 +79,15 @@ const styles = StyleSheet.create({
     imageThumbnailFour: {
         justifyContent: 'center',
         alignItems: 'center',
-        height: 100,
+        height: hp('10%'),
+        width: wp('23%'),
         borderRadius: hp('3%')
     },
     imageThumbnailDouble: {
         justifyContent: 'center',
         alignItems: 'center',
-        height: hp('20%'),
-        width: wp('40%'),
+        height: hp('15%'),
+        width: wp('45%'),
         borderRadius: hp('3%')
     },
 })

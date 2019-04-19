@@ -18,4 +18,4 @@ step 4 :- after finishing the npm install you will be able to see node_modules f
 
 step 5 :- for running in android run this command in the terminal react-native run-android, prior to this you should install android studio in your local system.
 
-step 6:- for running in ios xcode need to be installed in the macbook, select the project from the directory ios\WorkSpan.xcodeproj and select any devices from simulator and run the project from xcode.
+step 6:- for running in ios xcode need to be installed in the macbook, select the project from the directory ios\testreactnative.xcodeproj and select any devices from simulator and run the project from xcode.
